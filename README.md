@@ -1,2 +1,6 @@
 # Anchor-free algorithm
-implement anchor-free detection algorithms.
+Implement anchor-free detection algorithms using Tensorflow 2.0
+
+### Implements
+- CornerNet
+- CenterNet
